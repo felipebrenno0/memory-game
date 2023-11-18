@@ -1,4 +1,4 @@
-# Jogo da memoria criado em um desafio de código na DIO
+# Jogo da memória criado em um desafio de código na DIO
 
 
 ## Alguns aprendizados deste desafio
